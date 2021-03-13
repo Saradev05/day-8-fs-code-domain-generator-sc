@@ -5,7 +5,7 @@ function domainGenerator(){
  let adj = ['great', 'big',"sara" ];
  let noun = ['jogger','racoon', "domain"];
  let dom= [".com", ".net", ".sc"]
- let domain="";
+ let newDomain="";
 
 for (let i=0 ;i<pronoun.length; i++ ){
     for (let f=0 ;f<adj.length; f++){
